@@ -4,8 +4,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://www.ebenezersilva.com.br/
+- Solution URL: [Blog preview card - Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-desenvolvido-com-flexbox-e-abordagem-mobile-first-Uz9A8QPx3v)
+- Live Site URL: [Blog preview card](https://preview-card-main-seven.vercel.app/)
 
 ## My process
 
